@@ -4,4 +4,4 @@
 
 所以打包了一份Linux上能直接用的压缩包，可以直接sftp上传到服务器
 
-> 具体按照手册参考[我的个人博客](http://www.xf-blog.top/2023/10/31/SOWFA-on-cluster/)   
+> 具体按照手册参考[我的个人博客](http://www.xfblog.cc/2023/10/31/SOWFA-on-cluster/)   
